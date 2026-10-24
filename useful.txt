@@ -3,3 +3,6 @@ python -m venv venv
 venv\Scripts\activate
 
 cd labs/lab
+
+#z repo github usuwanie
+git rm -r --cached folder
